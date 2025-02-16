@@ -1,0 +1,7 @@
+geopy
+opencv-python
+torch
+yolov5
+pyttsx3
+gTTS
+requests
